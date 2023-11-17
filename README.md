@@ -1,1 +1,1 @@
-# Prediction of Profitable Games and Consoles
+# Prediction of Profitable Games
