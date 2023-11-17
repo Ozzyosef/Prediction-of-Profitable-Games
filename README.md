@@ -1,2 +1,4 @@
 # Prediction of Profitable Games
-Can we predict the success of a particular game in different areas according to its sales ratio?
+Financial prediction of games in major companies according to sales ratio, population, and ethnicity.
+Used classification models such as logistic regression, KNN, and decision tree.
+Optimized a machine learning pipeline using XXXX, achieving an F1 score of XXX.
