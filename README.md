@@ -2,4 +2,4 @@
 Financial prediction of games in major companies according to sales ratio, population, and ethnicity.
 Used classification models such as logistic regression, KNN, and decision tree on data scraped from "vgchartz" website.
 Optimized a machine learning pipeline using XXXX, achieving an F1 score of XXX.
-"merged.ipynb" file summarizes the project, contains all the commented code, table charts, and graphs.
+"merged.ipynb" file summarizes the project, contains all the commented code, scraping method, table charts, and graphs.
